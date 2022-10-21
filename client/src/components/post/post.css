@@ -1,0 +1,147 @@
+.post {
+  width: 100%;
+  border-radius: 10px;
+  -webkit-box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  box-shadow: 0px 0px 16px -8px rgba(0, 0, 0, 0.68);
+  margin: 30px 0px;
+}
+
+.postWrapper {
+  padding: 10px;
+}
+
+.postTop {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.postTopLeft {
+  display: flex;
+  align-items: center;
+}
+
+.postProfileImg {
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.postUsername {
+  font-size: 15px;
+  font-weight: 500;
+  margin: 0px 10px;
+}
+
+.postDate {
+  font-size: 12px;
+}
+
+.postCenter {
+  margin: 20px 0px;
+}
+
+.postImg {
+  margin-top: 20px;
+  width: 100%;
+  max-height: 500px;
+  object-fit: contain;
+}
+
+.postBottom {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.postBottomLeft {
+  display: flex;
+  align-items: center;
+}
+
+.unlikeIcon {
+  height: 24px;
+  width: 24px;
+  margin-right: 5px;
+  cursor: pointer;
+}
+
+.likeIcon {
+  height: 24px;
+  width: 24px;
+  margin-right: 5px;
+  cursor: pointer;
+  filter: opacity(0.5) drop-shadow(0 0 0 blue);
+}
+
+/* .likeIcon:active {
+  filter: opacity(0.5) drop-shadow(0 0 0 blue);
+} */
+
+.postLikeCounter {
+  font-size: 15px;
+}
+
+.postCommentText {
+  cursor: pointer;
+  border-bottom: 1px dashed gray;
+  font-size: 15px;
+}
+
+.commentSection {
+  display: flex;
+  flex-direction: row;
+  margin-top: 20px;
+  justify-content: space-between;
+}
+
+.commentInput {
+  width: 85%;
+  height: 30px;
+  background-color: white;
+  border-radius: 30px;
+  border: 0.5px solid gray;
+  display: flex;
+  align-items: center;
+}
+
+.commentButton {
+  width: 100px;
+  border: none;
+  padding: 7px;
+  border-radius: 5px;
+  background-color: rgb(6, 114, 255);
+  font-weight: 500;
+  cursor: pointer;
+  color: white;
+}
+
+.captionInput {
+  width: 75%;
+  border: none;
+}
+
+.captionButton {
+  width: 30px;
+  height: 5px;
+  background-color: gray;
+  color: black;
+}
+
+.saveCaption {
+  background-color: black;
+  color: white;
+  border-radius: 5px;
+}
+
+.modalCaption {
+  width: 70%;
+}
+
+.modalCaption {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+}
