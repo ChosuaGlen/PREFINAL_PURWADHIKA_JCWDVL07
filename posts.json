@@ -1,0 +1,241 @@
+[{
+  "_id": {
+    "$oid": "6349429eb9a1aa9cbc70e684"
+  },
+  "userId": "63486a40a994f9b13b520c7c",
+  "desc": "Lind out here! from lind",
+  "img": "post/pic2.jpeg",
+  "likes": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665745566196"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666093071887"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634a79135acdc4a731ca58e6"
+  },
+  "userId": "63486a98a4a1d87ef68287b3",
+  "desc": "Hello world! from hey",
+  "img": "post/pic3.jpg",
+  "likes": [
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665825043229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666093069405"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634a79485acdc4a731ca58e8"
+  },
+  "userId": "63492bc0dbf4a648a85461e0",
+  "desc": "Wijaya Fam gathering from cho",
+  "img": "",
+  "likes": [
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665825096143"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666093067781"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d8ba19a6db5143cb102c8"
+  },
+  "likes": [],
+  "userId": "634d8b939a6db5143cb102c7",
+  "desc": "",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666026401336"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666026401336"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d8c6b9a6db5143cb102c9"
+  },
+  "likes": [
+    "634d8b939a6db5143cb102c7"
+  ],
+  "userId": "634d8b939a6db5143cb102c7",
+  "desc": "",
+  "img": "1666026603843samplebg.jpg",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666026603861"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666026609301"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634d8ec79a6db5143cb102ca"
+  },
+  "likes": [],
+  "userId": "634d8b939a6db5143cb102c7",
+  "desc": "Checking weather",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666027207797"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666027207797"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634e7b71438f485f027d686a"
+  },
+  "userId": "634d36a942eeeed8a42393c8",
+  "desc": "",
+  "img": "1666087793648rowlet.png",
+  "likes": [
+    "634d36a942eeeed8a42393c8"
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666087793671"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666289081965"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634e7f359363fa89c92cdf74"
+  },
+  "userId": "634d36a942eeeed8a42393c8",
+  "desc": "",
+  "likes": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666088757821"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666289080236"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fda56d54056f0a92a915e"
+  },
+  "userId": "634fda24d54056f0a92a9159",
+  "desc": "First post of epicness",
+  "img": "1666177622533darkVS.jpg",
+  "likes": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666177622862"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666177622862"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635125e710ecbd8f5d7f9aff"
+  },
+  "userId": "634d0d824cf37abb1b9c1965",
+  "desc": "Daitenku Temple spotting",
+  "img": "1666262503088takeru.jpg",
+  "likes": [
+    "634d36a942eeeed8a42393c8",
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666262503667"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666290255124"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351877877fcc0dfef34787c"
+  },
+  "userId": "63486a40a994f9b13b520c7c",
+  "desc": "My App crashed! ",
+  "likes": [
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666287480139"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666290252356"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "6351926277fcc0dfef3479d0"
+  },
+  "userId": "634d0d824cf37abb1b9c1965",
+  "desc": "folabi",
+  "img": "1666290273556folabi.jpg",
+  "likes": [],
+  "comments": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666290274141"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666290287856"
+    }
+  },
+  "__v": 0
+}]

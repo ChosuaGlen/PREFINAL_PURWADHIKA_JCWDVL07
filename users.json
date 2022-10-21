@@ -1,0 +1,453 @@
+[{
+  "_id": {
+    "$oid": "63486a40a994f9b13b520c7c"
+  },
+  "username": "lind",
+  "email": "lind@mail.com",
+  "password": "456",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [
+    "63492db820affb852711b9c2",
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665690176702"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666008034389"
+    }
+  },
+  "__v": 0,
+  "followings": [],
+  "city": "Paris",
+  "dob": "1-1-1990",
+  "age": "32",
+  "status": "2"
+},{
+  "_id": {
+    "$oid": "63486a98a4a1d87ef68287b3"
+  },
+  "username": "hey",
+  "email": "hey@mail.com",
+  "password": "$2b$10$uGNaO0IdBpNkbOGh7406I.VKgy1clVpIy2FjPI36toGjB0n9xX5aa",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [
+    "63492db820affb852711b9c2",
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665690264274"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666008023303"
+    }
+  },
+  "__v": 0,
+  "followings": [],
+  "age": "26",
+  "city": "Berlin",
+  "dob": "2-2-1996",
+  "status": "1",
+  "desc": "YEEHAA"
+},{
+  "_id": {
+    "$oid": "63492bc0dbf4a648a85461e0"
+  },
+  "username": "cho",
+  "email": "cho@mail.com",
+  "password": "$2b$10$HAGpUr1z2jrTwGKCMwD0qeWdOf48TJbRfMlCoLFFQnFtDqCdwyD9a",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665739712229"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666008004989"
+    }
+  },
+  "__v": 0,
+  "followings": [],
+  "age": "26",
+  "city": "Jakarta",
+  "dob": "11-9-1996",
+  "status": "2"
+},{
+  "_id": {
+    "$oid": "63492db820affb852711b9c2"
+  },
+  "username": "ridu",
+  "email": "ridu@mail.com",
+  "password": "$2b$10$1EssL4Un2HcSsMaVOYR1HOVm3KKycHcTMobirbYNIkAueSSsTw3sS",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665740216301"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1665825148400"
+    }
+  },
+  "__v": 0,
+  "followings": [
+    "63486a40a994f9b13b520c7c",
+    "63486a98a4a1d87ef68287b3"
+  ],
+  "age": "32",
+  "city": "Tokyo",
+  "dob": "12-12-1990",
+  "status": "1"
+},{
+  "_id": {
+    "$oid": "634d0d824cf37abb1b9c1965"
+  },
+  "username": "glen",
+  "email": "glenchosua@gmail.com",
+  "password": "$2b$10$tadV9JIgzAmZlsxo99oCHe2DBVxpWYISEPNVe3MbqEE4HyWBiwrGm",
+  "profilePicture": "1666290323214pasfotoCho_3x4.jpg",
+  "coverPicture": "",
+  "followers": [
+    "634d36a942eeeed8a42393c8",
+    "635009b5cb0139fd251e4a4a"
+  ],
+  "followings": [
+    "63492bc0dbf4a648a85461e0",
+    "63486a98a4a1d87ef68287b3",
+    "63486a40a994f9b13b520c7c"
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1665994114831"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666290323239"
+    }
+  },
+  "__v": 0,
+  "age": 22,
+  "city": "Bali",
+  "dob": "1-1-2000",
+  "relationship": 2,
+  "fullName": "Chosua Glen",
+  "verified": "true"
+},{
+  "_id": {
+    "$oid": "634d36a942eeeed8a42393c8"
+  },
+  "username": "kitsune",
+  "email": "kiriko@gmail.com",
+  "password": "$2b$10$KdF.BB9BVZNKU5PMMAmPDuEGGNc4NLFZB5HnPLbeomIK/Y2tmmINW",
+  "profilePicture": "1666289130453spheal.png",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666004649952"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666289130472"
+    }
+  },
+  "__v": 0,
+  "age": 25,
+  "city": "Hanezaka",
+  "dob": "1-10-1997",
+  "fullName": "Kiriko",
+  "relationship": 2
+},{
+  "_id": {
+    "$oid": "634d8b939a6db5143cb102c7"
+  },
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "username": "clevo123",
+  "email": "clevo@gmail.com",
+  "password": "$2b$10$8skXF4nGx.N39KK0KtgM..3SshB9dk/2sa7lUDBJwtURfGVFo5rVm",
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666026387198"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666026387198"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634e5f6d696c8418ecececec"
+  },
+  "username": "kurniawati",
+  "email": "kwati@gmail.com",
+  "password": "$2b$10$sa5aObAMmAYIBjIOtSNSiOGfcnLu9NJ9BUXOmWrriHJ5BIiA5SUB6",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666080621720"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666080621720"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634e6199b64443435afd2581"
+  },
+  "username": "gernbjorn",
+  "email": "gern@gmail.com",
+  "password": "$2b$10$J0khOmVqjwfNV1XxIiWDOORZoLrxrNE6qDPFWwg4U0b3C7C9IB3lG",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666081177084"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666081177084"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634e65a81d94f439640032ba"
+  },
+  "username": "frauwill",
+  "email": "will@gmail.com",
+  "password": "$2b$10$UUqOLLw9l5x9x3poPWJvhe3sPqzJuwV6OtWIM16a4Z9FkUPo3odKy",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666082216527"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666082216527"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634e6891a68144b4d2dbf66b"
+  },
+  "username": "jamesbond",
+  "email": "bond007@gmail.com",
+  "password": "$2b$10$X4Vdge4gVJt/bo.9u4QLLOiXeKumkdmTIzysmXNnEr94.YecSUMYS",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666082961006"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666082961006"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634ec380e3f88e9a063b4056"
+  },
+  "username": "noodleboi",
+  "email": "bakmie@gmail.com",
+  "password": "$2b$10$goLDDwY1VSyHOgBnOLVrrelEq66qIMMviS54LG3.64FPEX1KTPEQ2",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "desc": "",
+  "city": "Bali",
+  "dob": "1-1-2000",
+  "age": 22,
+  "relationship": 1,
+  "verified": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666106240919"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666115260944"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "634fda24d54056f0a92a9159"
+  },
+  "username": "metagaming",
+  "fullName": "",
+  "email": "metabgt@gmail.com",
+  "password": "$2b$10$JLe7zVp1UVNKTmZYHwAD5.oz87xIT0h439Tj1G1FOMvJVrRj96i8a",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "desc": "",
+  "city": "London",
+  "dob": "2-2-2000",
+  "age": 22,
+  "relationship": 1,
+  "verified": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666177572747"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666177649112"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "635009b5cb0139fd251e4a4a"
+  },
+  "username": "gueljeturk",
+  "fullName": "",
+  "email": "jeturk@gmail.com",
+  "password": "$2b$10$2GDHtWlbODMCR/PrwEHT9u2/TuMJKqt7B7qGRsnXQ/P/0HQGnz2yq",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [
+    "634d0d824cf37abb1b9c1965"
+  ],
+  "isAdmin": false,
+  "desc": "",
+  "city": "",
+  "dob": "",
+  "age": null,
+  "relationship": null,
+  "verified": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666189749846"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666200468474"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63512c7e10ecbd8f5d7f9b5a"
+  },
+  "username": "sonnyJmoore",
+  "fullName": "",
+  "email": "skrillex@gmail.com",
+  "password": "$2b$10$RvcvLwaNGKwGT3y6Wbqy.uhTclbnYg4EFRA.8njqJGpsifeNJyhcG",
+  "profilePicture": "",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "desc": "",
+  "city": "",
+  "dob": "",
+  "age": null,
+  "relationship": null,
+  "verified": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666264190102"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666264190102"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63518e2277fcc0dfef34798a"
+  },
+  "username": "testbuild",
+  "fullName": "tester",
+  "email": "bloopnet@gmail.com",
+  "password": "$2b$10$8pq0BRRAI1Ca8CZFFg/Wt.NB/YnWXkFa2ddT0gZugTdnUQkeKD832",
+  "profilePicture": "1666289230434BapakeMiku.jpg",
+  "coverPicture": "",
+  "followers": [],
+  "followings": [],
+  "isAdmin": false,
+  "desc": "",
+  "city": "-",
+  "dob": "-",
+  "age": 21,
+  "relationship": null,
+  "verified": false,
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1666289186494"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1666289230765"
+    }
+  },
+  "__v": 0
+}]
